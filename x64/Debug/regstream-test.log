@@ -1,0 +1,4 @@
+﻿  test.c
+Y:\dev\open-ephys\ONI\liboni\api\liboni\onix.h(9,1): warning C4005: 'ONI_EXPORT': redefinición de macro
+Y:\dev\open-ephys\ONI\liboni\api\liboni\oni.h(27,1): message : vea la definición anterior de 'ONI_EXPORT'
+  regstream-test.vcxproj -> Y:\dev\open-ephys\ONI\issues\regstream-test\x64\Debug\regstream-test.exe
